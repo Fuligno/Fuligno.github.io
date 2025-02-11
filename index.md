@@ -1,9 +1,7 @@
----
 <div class="page-header">
   <h1 style="text-align: center; color: white;">Davide Fuligno</h1>
   <h3 style="text-align: center; color: white;">Personal Webpage</h3>
 </div>
----
 
 <div style="text-align: center;">
   <nav>
