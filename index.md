@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Davide Fuligno"
+title: "Davide Fuligno ~ Personal Webpage"
 ---
-## *Personal Webpage* 
 
 <nav>
   <a href="#my-study">My Study</a> | 
