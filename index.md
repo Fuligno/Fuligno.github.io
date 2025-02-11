@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Benvenuto
+title: Davide Fuligno
+subtitle: Personal webpage
 ---
 
 # Benvenuto sul mio sito!
