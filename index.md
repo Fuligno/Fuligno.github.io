@@ -1,6 +1,6 @@
 ---
 <div class="page-header">
-  <h1 style="text-align: center; color: white;">NOME COGNOME</h1>
+  <h1 style="text-align: center; color: white;">Davide Fuligno</h1>
   <h3 style="text-align: center; color: white;">Personal Webpage</h3>
 </div>
 ---
