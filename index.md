@@ -1,14 +1,18 @@
 ---
 layout: default
-title: "Davide Fuligno ~ Personal Webpage"
+title: "Davide Fuligno"
 ---
-
-<nav>
-  <a href="#my-study">My Study</a> | 
-  <a href="#contact">Contact</a> | 
-  <a href="blog.html">Blog</a>
-</nav>
-
+<div style="text-align: center;">
+    <h2>Personal Webpage</h2>
+</div>
+---
+<div style="text-align: center;">
+  <nav>
+    <a href="#my-study">My Study</a> | 
+    <a href="#contact">Contact</a> | 
+    <a href="blog.html">Blog</a>
+  </nav>
+</div>
 ---
 
 ## My Study {#my-study}
