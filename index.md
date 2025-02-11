@@ -20,12 +20,13 @@ I am a second-year master's student in Nuclear Physics at the University of Trie
 
 Currently, I am working on Fast Simulation of Calorimeters using ML techniques for the ALICE collaboration, with a specific focus on the ZDC.
 
-📄 **[Download my CV](#)**
+📄 **[Download my CV](CV_Davide_Fuligno.pdf)**
 
 ---
 
 ## Contact {#contact}
-📧 Email: davide.fuligno@cern.ch | davide.fuligno@studenti.units.it   
+📧 Email:   davide.fuligno@cern.ch
+            davide.fuligno@studenti.units.it   
 📍 Location: Trieste, Italy  
 
 ---
