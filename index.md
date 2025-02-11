@@ -1,8 +1,37 @@
 ---
 layout: default
-title: Davide Fuligno
-subtitle: Personal webpage
+title: "Davide Fuligno"
+subtitle: "Personal Webpage"
 ---
 
-# Benvenuto sul mio sito!
-Sono un laureando in fisica nucleare e mi occupo di simulazioni.
+# Davide Fuligno  
+### Personal Webpage  
+
+<nav>
+[My Study](#my-study) | [Contact](#contact) | [My Expertise](#my-expertise)
+</nav>
+
+---
+
+## My Study {#my-study}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Integer nec odio.  
+
+📄 **[Download my CV](#)**
+
+---
+
+## Contact {#contact}
+📧 Email: example@example.com  
+📞 Phone: +123 456 789  
+📍 Location: Your City, Country  
+
+---
+
+## My Expertise {#my-expertise}
+- **Expertise 1**  
+  _Brief description of expertise 1._
+- **Expertise 2**  
+  _Brief description of expertise 2._
+- **Expertise 3**  
+  _Brief description of expertise 3._
+
