@@ -1,11 +1,8 @@
 ---
 layout: default
 title: "Davide Fuligno"
-subtitle: "Personal Webpage"
 ---
-
-# Davide Fuligno  
-### Personal Webpage  
+## *Personal Webpage* 
 
 <nav>
   <a href="#my-study">My Study</a> | 
