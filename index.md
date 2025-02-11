@@ -8,7 +8,9 @@ subtitle: "Personal Webpage"
 ### Personal Webpage  
 
 <nav>
-[My Study](#my-study) | [Contact](#contact) | [My Expertise](#my-expertise)
+  <a href="#my-study">My Study</a> | 
+  <a href="#contact">Contact</a> | 
+  <a href="#my-expertise">My Expertise</a>
 </nav>
 
 ---
