@@ -12,7 +12,7 @@ title: "Davide Fuligno"
 </div>
 ---
 
-## <span style="color: #313A5B;">My Study</span> {#my-study}
+## <span style="color: #313A5B;">**My Study**</span> {#my-study}
 I am a second-year master's student in Nuclear Physics at the University of Trieste and a junior member of the ALICE collaboration.
 
 Currently, I am working on Fast Simulation of Calorimeters using ML techniques for the ALICE collaboration, with a specific focus on the ZDC.
@@ -21,7 +21,7 @@ Currently, I am working on Fast Simulation of Calorimeters using ML techniques f
 
 ---
 
-## <span style="color: #313A5B;">Contact</span> {#contact}
+## <span style="color: #313A5B;">**Contact**</span> {#contact}
 📧 Email: davide.fuligno@cern.ch   
 📍 Location: Trieste, Italy  
 
