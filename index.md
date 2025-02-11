@@ -1,11 +1,10 @@
 ---
-layout: default
-title: "Davide Fuligno"
----
-<div style="text-align: center;">
-    <h2>Personal Webpage</h2>
+l<div class="page-header">
+  <h1 style="text-align: center; color: white;">NOME COGNOME</h1>
+  <h3 style="text-align: center; color: white;">Personal Webpage</h3>
 </div>
 ---
+
 <div style="text-align: center;">
   <nav>
     <a href="#my-study">My Study</a> | 
@@ -25,9 +24,9 @@ Currently, I am working on Fast Simulation of Calorimeters using ML techniques f
 ---
 
 ## Contact {#contact}
-📧 Email:   davide.fuligno@cern.ch
-            davide.fuligno@studenti.units.it   
+📧 Email: davide.fuligno@cern.ch   
 📍 Location: Trieste, Italy  
 
 ---
+
 
