@@ -16,7 +16,9 @@ title: "Davide Fuligno"
 ---
 
 ## My Study {#my-study}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Integer nec odio.  
+I am a second-year master's student in Nuclear Physics at the University of Trieste and a junior member of the ALICE collaboration.
+
+Currently, I am working on Fast Simulation of Calorimeters using ML techniques for the ALICE collaboration, with a specific focus on the ZDC.
 
 📄 **[Download my CV](#)**
 
