@@ -7,6 +7,7 @@ title: "Davide Fuligno"
   <nav>
     <a href="#my-study">My Study</a> | 
     <a href="#contact">Contact</a> | 
+    <a href="#about-me">About Me</a> | 
     <a href="blog.html">Blog</a>
   </nav>
 </div>
@@ -27,4 +28,5 @@ Currently, I am working on Fast Simulation of Calorimeters using ML techniques f
 
 ---
 
-
+## <span style="color: #313A5B;">**About Me**</span> {#about-me}
+Section not complete
